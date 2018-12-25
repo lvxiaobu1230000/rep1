@@ -1,3 +1,7 @@
 564213131
 sadfuqdfjhsdgdfiuubwqfsas
+<<<<<<< HEAD
 增加111s
+=======
+增加..
+>>>>>>> b4247a0495ec2096e496a8e35685c4cf5597a82d
